@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akademicheskiy-auto-gold.erofeypavlovich.chatgpt.site/sitemap.xml
